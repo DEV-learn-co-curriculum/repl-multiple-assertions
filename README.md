@@ -61,7 +61,7 @@ return_ruby
 
 ~~~validation 
  
-assert_equal(response, "ruby") 
+assert_equal(response, "ruby")
 assert_length(response, 4)
  
 ~~~
