@@ -95,3 +95,5 @@ assert_equal(response, "54321")
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/repl-multiple-assertions' data-visibility='hidden'>Learn.co resource</a>
